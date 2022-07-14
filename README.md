@@ -1,2 +1,2 @@
 # OnTheMap
-Udacity's iOS Developer Nanodegree fourth project assignation
+Udacity's iOS Developer Nanodegree fourth project assignment
